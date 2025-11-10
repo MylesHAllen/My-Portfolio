@@ -1,0 +1,125 @@
+body {
+  background-color: #FEFFEA;
+  font-family: "Lato", sans-serif;
+  margin: 0%;
+}
+     
+p {
+  color: #333333;
+  font-family: Verdana;
+  font-size: 24px;
+}
+  
+h1 {
+  color: #02111B;  
+  font-family: Georgia;
+  font-size: 38px;
+}
+
+h2 {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 46px;
+}
+h3 {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 36px;
+}
+  
+section {
+  line-height: 2;
+  width: 50%;
+}
+  
+header {
+  background-color: #5EB1BF;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: space-around;
+  position:fixed;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 150px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.lista {
+  font-size: 28px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.listb {
+  font-size: 28px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.listc {
+  font-family: "Sixtyfour", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+}
+
+nav {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  width: 50%;
+  background-color: #5EB1BF;
+}
+
+footer {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #5EB1BF;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+}
+
+.intouch{
+  font-size: 26px;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+section {
+  width: 50%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+img {
+  width: 50%;
+  height: 540px;
+  border-radius: 25px;
+  box-shadow: 4px 4px 10px rgba(10, 10, 10, 10);
+  margin-bottom: 100px;
+}
